@@ -1,0 +1,6 @@
+Meter Correction Allocation Charge Summary
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:46 AM
+Start Month:,"February, 2018",End Month:,"February, 2018"
+4000.01,4000.02,4000.03,4000.99,4000.97,1250.15,1250.14,3001.16,3001.17,3001.18,3001.19,1250.02,4000.07
+Customer ID,Customer Code,Month,Type,EDC,Total Correction (MWh),Total Meter Error Correction Charge ($),PJM-East Load  (MWh),Total PJM-East Load  (MWh),PJM Region Load (MWh),Total PJM Region Load  (MWh),Meter Correction Charge ($),Version
+End of Report

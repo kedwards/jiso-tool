@@ -1,0 +1,6 @@
+Generator LMP Charges
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 12:00:18 PM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,4000.63,4000.64,3000.8,4000.19,4000.20,3000.32,3000.01,1200.11,3000.06,1210.18,3000.15,1220.18,3000.33,3000.91,3000.02,1205.11,3000.09,1215.2,3000.18,1225.2,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Unit ID,Unit Name,Unit Ownership Share,PNODE Name,PNODE ID,DA Scheduled MWh,DA PJM Energy Price ($/MWh),DA Spot Market Energy Charge ($),PNODE DA Congestion Price ($/MWh),DA Transmission Congestion Charge ($),PNODE DA Loss Price ($/MWh),DA Transmission Loss Charge ($),RT Generation (MWh),Bal Generation (MWh),RT PJM Energy Price ($/MWh),Bal Spot Market Energy Charge ($),PNODE RT Congestion Price ($/MWh),Bal Transmission Congestion Charge ($),PNODE RT Loss Price ($/MWh),Bal Transmission Loss Charge ($),Version
+End of Report

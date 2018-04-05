@@ -1,0 +1,7 @@
+Load Response Summary
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 12:00:32 PM
+Start Month:,"February, 2018",End Month:,"February, 2018"
+4000.01,4000.02,4000.03,4000.05,4000.06,4000.93,4000.94,4000.95,4000.32,3001.14,3000.24,1240.11,2240.01,1240.01,1241.11,1241.12,1241.13,3000.83,3001.15,3000.25,1241.14,2241.01,1241.01,4000.07
+Customer ID,Customer Code,Billing Month,EPT Hour Ending,GMT Hour Ending,Registration ID,EDC Account Number,End Use Customer,Zone,DA Load Response MWh,DA LMP ($/MWh),DA Retail Rate Used ($/MWh),DA Load Response Credit ($),DA Load Response Charge ($),CBL (kWh),Metered Load (kWh),Load Response Loss Factor,EDC Loss De-ration Factor,RT Load Response MWh,RT LMP ($/MWh),RT Retail Rate Used ($/MWh),RT Load Response Credit ($),RT Load Response Charge ($),Version
+End of Report
+The data on this report is preliminary until the end of the billing cycle.  These results are based on load response transactions that have been settled to date.

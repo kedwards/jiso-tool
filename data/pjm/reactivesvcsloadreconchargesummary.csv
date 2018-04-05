@@ -1,0 +1,6 @@
+Reactive Services Load Reconciliation Charge Summary
+Customer Account:,"Tidal Energy Marketing Inc.",Report Creation Timestamp (EPT):,03/26/2018 11:59:50 AM
+Start Billing Month:,"February, 2018",End Billing Month:,"February, 2018"
+4000.01,4000.02,4000.03,4000.04,4000.32,3000.69,1490.11,1490.01,4000.07
+Customer ID,Customer Code,Billing Month,Date,Zone,Load Reconciliation Energy (MWh),Reactive Services Load Reconciliation Billing Determinant ($/MWh),Reactive Services Load Reconciliation Charge ($),Version
+End of Report

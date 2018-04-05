@@ -1,0 +1,6 @@
+Explicit Loss Charges
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:47 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,4000.09,4000.13,4000.14,4000.17,4000.18,4000.21,4000.22,4000.23,4000.24,3000.72,3000.16,3000.17,1220.13,3000.73,3000.74,3000.19,3000.20,1225.13,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Transaction ID,NERC Tag,OASIS ID,Buyer,Seller,Sink PNODE Name,Sink PNODE ID,Source PNODE Name,Source PNODE ID,DA Transaction MWh,DA Sink Loss Price ($/MWh),DA Source Loss Price ($/MWh),DA Explicit Loss Charge ($),RT Transaction MWh,Bal Transaction Deviation (MWh),RT Sink Loss Price ($/MWh),RT Source Loss Price ($/MWh),Bal Explicit Loss Charge ($),Version
+End of Report

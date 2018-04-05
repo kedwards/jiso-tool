@@ -1,0 +1,10 @@
+"Transmission Owner Scheduling, System Control and Dispatch Service Charge Summary"
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:54 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.04,4000.32,1320.11,1320.12,1320.13,1320.01,4000.07
+Customer ID,Customer Code,Date,Zone,Zone Schedule 1A Rate ($/MWh),Zone Transmission Use (MWh),Non-Zone Transmission Use (MWh),Schedule 1A Charge ($),Version
+38738,TIDALE,02/13/2018,PJM,.091200,,70.000,6.38,20180301.001
+38738,TIDALE,02/16/2018,PJM,.091200,,30.000,2.74,20180301.001
+38738,TIDALE,02/21/2018,PJM,.091200,,80.000,7.30,20180301.001
+38738,TIDALE,02/22/2018,PJM,.091200,,50.000,4.56,20180301.001
+End of Report

@@ -1,0 +1,6 @@
+Emergency Energy Charge and Credit Allocation Summary
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:36 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,1260.14,1260.15,3000.28,3000.29,3000.77,3000.31,1260.16,1260.19,1260.20,1260.21,1260.18,1260.02,2260.02,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Total PJM Net Cost ($),Total PJM Net Revenue ($),DA Net Interchange (MWh),RT Net Interchange (MWh),Load Reconciliation Energy (MWh),Bal Net Interchange (MWh),Export Curtailments (MWh),Generator Reductions (MWh),Total PJM Bal Positive Interchange (MWh),Total PJM Bal Negative Interchange (MWh),Total PJM Export Curtailments (MWh),Emergency Energy Allocation Charge ($),Emergency Energy Allocation Credit ($),Version
+End of Report

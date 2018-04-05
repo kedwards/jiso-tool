@@ -1,0 +1,6 @@
+Fuel Cost Policy Penalty Credit Allocation Summary
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:48 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,2390.11,2390.12,2390.13,2390.01,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,RT Load (MWh),Total PJM RT Load (MWh),Total PJM Fuel Cost Policy Penalty Charges ($),Fuel Cost Policy Penalty Credit ($),Version
+End of Report

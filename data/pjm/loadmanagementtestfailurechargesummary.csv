@@ -1,0 +1,6 @@
+Load Management Test Failure Charge Summary
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 12:00:23 PM
+Start Month:,"February, 2018",End Month:,"February, 2018"
+4000.01,4000.02,4000.03,4000.04,4000.32,4000.40,4001.36,1666.11,1666.11,1666.01,4000.07
+Customer ID,Customer Code,Billing Month,Date,Zone,CSP Customer Code,Product Type,Load Management Test Failure Deficiency (MW),Load Management Test Failure Rate ($/MW),Load Management Test Failure Charge ($),Version
+End of Report

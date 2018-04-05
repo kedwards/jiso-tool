@@ -1,0 +1,6 @@
+Load Management Compliance Penalty Credits
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 12:00:31 PM
+Start Month:,"February, 2018",End Month:,"February, 2018"
+4000.01,4000.02,4000.03,4000.04,4000.38,4000.39,4000.40,4000.93,4001.09,4001.36,2660.12,2660.2,2660.11,2660.21,2660.22,2660.01,4000.07
+Customer ID,Customer Code,Billing Month,Date,Event Start Hour EPT,Event Start Hour GMT,CSP Customer Code,Registration ID,CAA,Product Type,Load Management Event Over Compliance MW (MW),Total CAA Load Management Event Over Compliance MW (MW),Total CAA Load Management Compliance Penalty Charges ($),Load Management Event Credit Cap Rate ($/MW),Load Management Event Credit Cap ($),Load Management Compliance Penalty Credit ($),Version
+End of Report

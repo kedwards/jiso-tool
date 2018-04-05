@@ -1,0 +1,20 @@
+Operating Reserve Generator Deviations
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 12:00:19 PM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.04,4000.63,4000.64,3000.80,3015.26,3015.01,3015.02,3015.25,3015.03,3015.04,3015.05,3015.06,3015.07,3015.08,3015.09,3015.10,3015.11,3015.12,3015.13,3015.14,3015.15,3015.16,3015.17,3015.18,3015.19,3015.20,3015.21,3015.22,3015.23,3015.24,4000.07
+Customer ID,Customer Code,Date,Unit ID,Unit Name,Unit Ownership Share,Data Label,EPT HE 01,EPT HE 02,EPT HE 02*,EPT HE 03,EPT HE 04,EPT HE 05,EPT HE 06,EPT HE 07,EPT HE 08,EPT HE 09,EPT HE 10,EPT HE 11,EPT HE 12,EPT HE 13,EPT HE 14,EPT HE 15,EPT HE 16,EPT HE 17,EPT HE 18,EPT HE 19,EPT HE 20,EPT HE 21,EPT HE 22,EPT HE 23,EPT HE 24,Version
+End of Report
+"The reasons below represent a deviation exemption hierarchy.  The indicator statements should be examined starting at the top and proceeding to the bottom of the list.  The first statement that is true for a particular unit and hour indicates whether or not the unit is exempt from devations or not.  No subsequent statements should be evaluated.
+Actual Indicator = Y and unit is operating at the request of PJM, deviations will not be incurred.
+Operating Reserve Lost Opportunity Cost Eligible = Y, deviations will not be incurred.
+Reactive Services Eligible = Y, deviations will not be incurred.
+Regulating Indicator = Y, deviations will not be incurred.
+Synch Reserve Tier 1 Response Indicator = Y, deviations will not be incurred.
+Synch Reserve PJM-Assigned Tier 2 Indicator = Y, deviations will not be incurred.
+Min Gen Reduction = Y, deviations will not be incurred.
+Hydro Unit Indicator = Y and Within 5% / 5 MWh Deviation Threshold = N, deviations will be incurred
+Restricted Limits Indicator = True and Within 5% / 5 MWh Deviation Threshold = N, deviations will be incurred
+RT Generation MWh <= 0 and DA Schedule MWh <> 0 and Within 5% / 5 MWh Deviation Threshold = N, deviations will be incurred
+Self Scheduled: Max <= 110% Min or Desired Mwh <= Min and Within 5% / 5 MWh Deviation Threshold = N, deviations will be incurred
+% Off Dispatch Greater than 10% = Y and Following PJM Dispatch = N and Within 5% / 5 MWh Deviation Threshold = N, devations will be incurred
+If none of the above statements are true, deviations will not be incurred."

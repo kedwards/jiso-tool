@@ -1,0 +1,6 @@
+Load Response Tier 1 Credits
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:36 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,4000.93,4000.94,4000.95,4000.36,4000.37,2360.38,3000.64,3000.25,2360.39,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Registration ID,EDC Account Number,End Use Customer,Synch Reserve Event Start Time (EPT),Synch Reserve Event End Time (EPT),DSR Synch Reserve Tier 1 Response (MWh),Tier 1 Premium Price ($/MWh),RT LMP ($),DSR Synch Reserve Tier 1 Credit ($),Version
+End of Report

@@ -1,0 +1,7 @@
+Energy Imbalance Summary
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 12:00:15 PM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,1350.11,1250.01,1350.12,1350.13,4000.72,1350.01,2350.01,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Energy Imbalance MWh,Energy Value ($),Congestion Value ($),Loss Value ($),Out of Band Indicator,Energy Imbalance Charge ($),Energy Imbalance Credit ($),Version
+End of Report
+The data on this report is preliminary until the end of the billing cycle.  Final results are based on month-end calculations that could significantly change the preliminary results that are displayed throughout the month.

@@ -1,0 +1,6 @@
+Load Management Test Failure Credit Summary
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:52 AM
+Start Month:,"February, 2018",End Month:,"February, 2018"
+4000.01,4000.02,4000.03,4000.04,2666.11,3001.29,3001.30,2666.01,4000.07
+Customer ID,Customer Code,Billing Month,Date,Total PJM Load Management Test Failure Charge ($),UCAP Obligation (MW),Total PJM UCAP Obligation (MW),Load Management Test Failure Credit ($),Version
+End of Report

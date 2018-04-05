@@ -1,0 +1,22 @@
+Billing Line Item Adjustment Summary
+Customer Account:,"Tidal Energy Marketing Inc.",Report Creation Timestamp (EPT):,03/26/2018 12:00:21 PM
+Billing Period Start:,02/01/2018,Billing Period End:,02/28/2018
+4000.01,4000.02,4001.03,4001.04,4001.05,4001.06,3000.86,4000.85,4000.07
+Customer ID,Customer Code,Billing Period Start Date,Source Billing Period Start Date,Billing Line Item ID,Billing Line Item Name,Adjustment Amount ($),Adjustment Description,Version
+38738,TIDALE,02/01/2018,05/01/2017,1330,Reactive Supply and Voltage Control from Generation and Other Sources Service Charge,-.55,,20180201.000
+38738,TIDALE,02/01/2018,06/01/2017,1330,Reactive Supply and Voltage Control from Generation and Other Sources Service Charge,-2.05,,20180201.000
+38738,TIDALE,02/01/2018,07/01/2017,1330,Reactive Supply and Voltage Control from Generation and Other Sources Service Charge,-1.86,,20180201.000
+38738,TIDALE,02/01/2018,07/01/2017,2211,Day-ahead Transmission Congestion Credit,.00,,20180201.000
+38738,TIDALE,02/01/2018,08/01/2017,1330,Reactive Supply and Voltage Control from Generation and Other Sources Service Charge,-69.40,,20180201.000
+38738,TIDALE,02/01/2018,09/01/2017,1330,Reactive Supply and Voltage Control from Generation and Other Sources Service Charge,-154.76,,20180201.000
+38738,TIDALE,02/01/2018,10/01/2017,1330,Reactive Supply and Voltage Control from Generation and Other Sources Service Charge,-136.03,,20180201.000
+38738,TIDALE,02/01/2018,10/01/2017,1375,Balancing Operating Reserve Charge,-1.43,,20180201.000
+38738,TIDALE,02/01/2018,11/01/2017,1375,Balancing Operating Reserve Charge,-.06,,20180201.000
+38738,TIDALE,02/01/2018,12/01/2017,1375,Balancing Operating Reserve Charge,-2.65,,20180201.000
+38738,TIDALE,02/01/2018,01/01/2018,1330,Reactive Supply and Voltage Control from Generation and Other Sources Service Charge,2.54,,20180201.000
+38738,TIDALE,02/01/2018,01/01/2018,1375,Balancing Operating Reserve Charge,29.36,,20180201.000
+38738,TIDALE,02/01/2018,02/01/2018,1330,Reactive Supply and Voltage Control from Generation and Other Sources Service Charge,-.88,Reactive Revenue Refund - Interest,20180201.000
+38738,TIDALE,02/01/2018,02/01/2018,1330,Reactive Supply and Voltage Control from Generation and Other Sources Service Charge,-.83,Reactive Revenue Refund - Interest,20180201.000
+38738,TIDALE,02/01/2018,02/01/2018,1330,Reactive Supply and Voltage Control from Generation and Other Sources Service Charge,-4.92,Reactive Revenue Refund - Interest,20180201.000
+End of Report
+The adjustment amounts displayed on this report are inclusive of any amounts transferred via billing line item transfer agreements into which this account has entered.  Please refer to the Billing Line Item Transfer Summary for details of the exact amounts transferred to or from this account.

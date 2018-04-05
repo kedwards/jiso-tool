@@ -1,0 +1,6 @@
+Reactive Services Credits
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 12:00:19 PM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,4000.63,4000.64,3000.80,4000.65,3000.32,3000.92,3000.24,3000.33,3000.93,3000.25,3000.34,3000.94,3000.95,3000.99,2378.15,3000.96,2378.16,2378.17,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Unit ID,Unit Name,Unit Ownership Share,Schedule ID,DA Scheduled MWh,Offer at DA MWh ($/MWh),DA Generator LMP ($/MWh),RT Generation (MWh),Offer at RT MWh ($/MWh),RT Generator LMP ($/MWh),RT LMP Desired MWh,Reg MWh Adj,Synch Reserve MWh Adj,Offset for Reg High < LMP Desired (MWh),MWh Raised,MWh Reduced,Reactive Services Generator Credit ($),Reactive Services Lost Opportunity Cost Credit  ($),Version
+End of Report

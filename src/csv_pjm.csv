@@ -1,0 +1,30 @@
+ID,FREQUENCY,REPORT NAME,API NAME,FILE NAME
+1,weekly,FTR Auction Charges and Credits,ftrauctionchargesandcredits,FTRAuction
+2,monthly,NITS Charge Summary,nitschargesummary,NITSCh
+3,monthly,NITS Credit Summary,nitscreditsummary,NITSCr
+4,monthly,Non-Firm PTP Charges,non-firmptpcharges,NFPTPCh
+5,monthly,Schedule 9 and 10 Charge Details,schedule9and10chargedetails,9&10ChDet
+6,weekly,Spot Market Energy Charge Summary,spotmarketenergychargesummary,SpotMktCh
+7,weekly,Transmission Congestion Charge Summary,transmissioncongestionchargesummary,CongCh
+8,weekly,Transmission Loss Charge Summary,transmissionlosschargesummary,LossCh
+9,weekly,Sched 1A Charge Summary,sched1achargesummary,1ACh
+10,weekly,Sched 1A Credit Summary,sched1acreditsummary,1ACr
+11,monthly,Black Start Charge Summary,blackstartchargesummary,BlkStCh
+12,monthly,Economic Load Response Zonal Charge Allocations (Pre FERC 745 (04.01.2012)),economicloadresponsezonalchargeallocations(preferc745(04.01.2012)),EcLRZnChA
+13,monthly,Firm PTP Credit Summary,firmptpcreditsummary,FirmPTPCr
+14,weekly,Hourly Transmission Congestion Credits,hourlytransmissioncongestioncredits,FTRCr
+15,monthly,Non-Firm PTP Credit Summary,non-firmptpcreditsummary,NFPTPCr
+16,monthly,Operating Reserve Charge Summary,operatingreservechargesummary,ORCh
+17,monthly,Operating Reserve for Load Response Charge Allocation (Pre FERC 745 (04.01.2012)),operatingreserveforloadresponsechargeallocation(preferc745(04.01.2012)),ORLRCh
+18,monthly,Operating Reserve Transaction Credits,operatingreservetransactioncredits,ORTransCr
+19,monthly,Reactive Charge Summary,reactivechargesummary,RSuppCh
+20,monthly,Regulation Credits,regulationcredits,RegCr
+21,monthly,Regulation Summary,regulationsummary,RegChCr
+22,monthly,Synchronized Reserve Tier 1 Charge Summary,synchronizedreservetier1chargesummary,SRT1Ch
+23,monthly,Synchronized Reserve Credit Summary,synchronizedreservecreditsummary,SRCr
+24,monthly,Transmission Loss Load Recon Credit Summary,transmissionlossloadreconcreditsummary,LossRecCr
+25,monthly,Synchronized Reserve Tier 2 Charge Summary,synchronizedreservetier2chargesummary,SRT2Ch
+26,weekly,Weekly Month-to-Date Bill - CSV and XML,weeklymonth-to-datebill-csvandxml,WEKMTDBill
+27,weekly,Balancing Transmission Congestion Credit Summary,balancingtransmissioncongestioncreditsummary,BalCongCr
+28,monthly,Month-to-Date Bill - CSV and XML,month-to-datebill-csvandxml,MTDBill
+29,monthly,Day-Ahead Scheduling Reserve Credits,day-aheadschedulingreservecredits,DASRCr

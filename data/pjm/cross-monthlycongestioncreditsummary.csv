@@ -1,0 +1,7 @@
+Cross-monthly Congestion Credit Summary
+Customer Account:,"Tidal Energy Marketing Inc.",Report Creation Timestamp (EPT):,03/26/2018 11:59:54 AM
+Start Processing Month:,"February, 2018",End Processing Month:,"February, 2018"
+4000.01,4000.02,4000.43,4000.03,2217.11,2217.12,2217.13,2217.01,2218.01,2217.14,2217.15,2217.16,2217.02,2218.02,2217.03,4000.07
+Customer ID,Customer Code,Processing Month,Month,Monthly FTR Target Credit ($),Monthly FTR Credit ($),FTR Deficiency ($),FTR Holder Excess Congestion Credit ($),FTR Uplift Credit ($),Monthly ARR Target Credit ($),Monthly ARR Credit ($),ARR Deficiency ($),ARR Holder Excess Congestion Credit ($),ARR Uplift Credit ($),End of Year Excess Congestion Credit ($),Version
+End of Report
+"The FTR Uplift Credit, ARR Holder Excess Congestion Credit, ARR Uplift Credit and Transmission Customer Excess Congestion Credit that appear on this report are calculated at the end of the planning year and allocated back to each month within the planning year.  The Planning Period Excess Congestion Credits and Planning Period Congestion Uplift Credits that appear on the billing statement reflect the sum of the credits stored for each month in the annual planning period (June - May).  To view all details supporting the end of period credit, please retrieve this report for all months that fall within the applicable planning period."

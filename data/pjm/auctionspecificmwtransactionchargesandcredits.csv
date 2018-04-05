@@ -1,0 +1,6 @@
+Auction Specific MW Transaction Charges and Credits
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:37 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.04,4001.26,4000.17,4000.18,4001.27,1650.11,1650.12,1650.01,2650.01,4000.07
+Customer ID,Customer Code,Date,Auction Specific MW Transaction ID,Buyer,Seller,Location,Transaction MW,Transaction Price ($/MW),Auction Specific MW Transaction Charge ($),Auction Specific MW Transaction Credit ($),Version
+End of Report

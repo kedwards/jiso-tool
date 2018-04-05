@@ -1,0 +1,6 @@
+Synchronized Reserve Obligation Details
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:37 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,4000.33,4000.34,1360.21,1360.22,1360.23,1360.32,1360.24,1360.25,1360.26,1360.27,1360.28,1360.29,1360.33,1360.30,1360.31,1360.12,1360.14,3000.63,1360.15,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Synch Reserve Zone,Subzone,Total Subzone Obligation (MWh),Subzone Load (MWh),Total Subzone Load (MWh),Tier 2 Shortfall (MWh),Synch Reserve Obligation (MWh),Bilateral Synch Reserve Sales (MWh),Bilateral Synch Reserve Purchases (MWh),Adjusted Synch Reserve Obligation (MWh),Tier 1 Estimate MWh,Remaining Bilateral Adjusted Obligation (MWh),Total Subzone Remaining Bilateral Adjusted Obligation (MWh),Total Subzone Tier 1 Excess (MWh),Obligation Ratio Share of Excess Tier 1 (MWh),Tier 1 Allocation to Obligation (MWh),Above Obligation Tier 1 Adjustment (MWh),Tier 2 Self-Scheduled MWh,Synch Reserve Purchases (MWh),Version
+End of Report

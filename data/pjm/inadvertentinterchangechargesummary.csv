@@ -1,0 +1,6 @@
+Inadvertent Interchange Charge Summary
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:38 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,3000.50,3000.02,3000.12,3000.21,3000.38,3000.41,1230.01,1230.02,1230.03,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Total PJM Inadvertent Interchange (MWh),RT PJM Energy Price ($/MWh),RT PJM Congestion Price ($/MWh),RT PJM Loss Price ($/MWh),RT Load (MWh),Total PJM RT Load (MWh),Inadvertent Energy Charge ($),Inadvertent Congestion Charge ($),Inadvertent Loss Charge ($),Version
+End of Report

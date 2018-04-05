@@ -1,0 +1,78 @@
+REPORT NAME:,Monthly Billing Statement - CSV and XML
+CUSTOMER ACCOUNT:,"Tidal Energy Marketing Inc."
+CUSTOMER CODE:,TIDALE
+CUSTOMER ID:,38738
+FINAL BILLING STATEMENT ISSUED:,03/06/2018 14:19:14
+BILLING PERIOD START DATE:,02/01/2018
+BILLING PERIOD END DATE:,02/28/2018
+INVOICE NUMBER:,2018022838738
+INVOICE DUE DATE:,03/16/2018 12:00:00
+ 
+CHARGES,ADJ,BILLING LINE ITEM NAME,SOURCE BILLING PERIOD START,AMOUNT ($)
+1100,,Network Integration Transmission Service,,.00
+1130,,Firm Point-to-Point Transmission Service,,.00
+1140,,Non-Firm Point-to-Point Transmission Service,,160.80
+1200,,Day-ahead Spot Market Energy,,-160813.20
+1205,,Balancing Spot Market Energy,,-118266.40
+1210,,Day-ahead Transmission Congestion,,16051.99
+1215,,Balancing Transmission Congestion,,4718.40
+1220,,Day-ahead Transmission Losses,,2069.06
+1225,,Balancing Transmission Losses,,560.30
+1243,,Real-Time Load Response Charge Allocation,,.07
+1301,,"PJM Scheduling, System Control and Dispatch Service - Control Area Administration",,48.30
+1302,,"PJM Scheduling, System Control and Dispatch Service - FTR Administration",,.00
+1303,,"PJM Scheduling, System Control and Dispatch Service - Market Support",,401.85
+1304,,"PJM Scheduling, System Control and Dispatch Service - Regulation Market Administration",,.00
+1305,,"PJM Scheduling, System Control and Dispatch Service - Capacity Resource/Obligation Mgmt.",,.00
+1307,,"PJM Scheduling, System Control and Dispatch Service - Market Support Offset",,-32.02
+1313,,"PJM Settlement, Inc.",,32.02
+1314,,Market Monitoring Unit (MMU) Funding,,49.38
+1315,,FERC Annual  Recovery,,17.61
+1316,,"Organization of PJM States, Inc. (OPSI) Funding",,.17
+1320,,"Transmission Owner Scheduling, System Control and Dispatch Service",,20.98
+1330,,Reactive Supply and Voltage Control from Generation and Other Sources Service,,119.08
+1340,,Regulation and Frequency Response Service,,.00
+1360,,Synchronized Reserve,,.00
+1365,,Day-ahead Scheduling Reserve,,.00
+1370,,Day-ahead Operating Reserve,,21.02
+1375,,Balancing Operating Reserve,,507.35
+1376,,Balancing Operating Reserve for Load Response,,2.57
+1380,,Black Start Service,,24.78
+1330,A,Reactive Supply and Voltage Control from Generation and Other Sources Service,05/01/2017,-.55
+1330,A,Reactive Supply and Voltage Control from Generation and Other Sources Service,06/01/2017,-2.05
+1330,A,Reactive Supply and Voltage Control from Generation and Other Sources Service,07/01/2017,-1.86
+1330,A,Reactive Supply and Voltage Control from Generation and Other Sources Service,08/01/2017,-69.40
+1330,A,Reactive Supply and Voltage Control from Generation and Other Sources Service,09/01/2017,-154.76
+1330,A,Reactive Supply and Voltage Control from Generation and Other Sources Service,10/01/2017,-136.03
+1330,A,Reactive Supply and Voltage Control from Generation and Other Sources Service,01/01/2018,2.54
+1330,A,Reactive Supply and Voltage Control from Generation and Other Sources Service,02/01/2018,-6.63
+1375,A,Balancing Operating Reserve,10/01/2017,-1.43
+1375,A,Balancing Operating Reserve,11/01/2017,-.06
+1375,A,Balancing Operating Reserve,12/01/2017,-2.65
+1375,A,Balancing Operating Reserve,01/01/2018,29.36
+
+,,Total Charges,,-254649.41
+
+CREDITS,ADJ,BILLING LINE ITEM NAME,SOURCE BILLING PERIOD START,AMOUNT ($)
+2100,,Network Integration Transmission Service,,.00
+2130,,Firm Point-to-Point Transmission Service,,.00
+2140,,Non-Firm Point-to-Point Transmission Service,,.00
+2215,,Balancing Transmission Congestion,,-.71
+2220,,Transmission Losses,,.00
+2320,,"Transmission Owner Scheduling, System Control and Dispatch Service",,.00
+2330,,Reactive Supply and Voltage Control from Generation and Other Sources Service,,.00
+2340,,Regulation and Frequency Response Service,,.00
+2360,,Synchronized Reserve,,.00
+2365,,Day-ahead Scheduling Reserve,,.00
+2370,,Day-ahead Operating Reserve,,.00
+2375,,Balancing Operating Reserve,,.00
+2380,,Black Start Service,,.00
+
+,,Total Credits,,-.71
+
+,,Monthly Billing Net Total,,-254648.70
+
+,,Previous Weekly Billing Net Total,,-256420.62
+
+,,Total Due / Receivable,,1771.92
+End of Report

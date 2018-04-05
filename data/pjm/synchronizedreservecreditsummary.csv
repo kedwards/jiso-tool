@@ -1,0 +1,6 @@
+Synchronized Reserve Credit Summary
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:56 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,4000.33,4000.34,3000.61,2360.14,2360.15,3000.63,2360.48,2360.16,2360.17,2360.18,2360.19,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Synch Reserve Zone,Subzone,SRMCP ($/MWh),Tier 2 PJM-Scheduled MWh,Tier 2 PJM-Added MWh,Tier 2 Self-Scheduled MWh,Tier 2 Shortfall (MWh),Tier 1 Credit ($),SRMCP Credit ($),Synch Reserve Lost Opportunity Cost Credit Cleared ($),Synch Reserve Lost Opportunity Cost Credit Added ($),Version
+End of Report

@@ -1,0 +1,6 @@
+Synchronized Reserve Tier 2 Retroactive Penalty Charges
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:38 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4001.35,4000.05,4000.06,4001.21,4001.22,4000.33,4000.34,1360.38,3000.61,1360.39,4000.07
+Customer ID,Customer Code,Synch Reserve Event Day,EPT Hour Ending,GMT Hour Ending,Resource ID,Resource Name,Synch Reserve Zone,Subzone,Retroactive Resource Shortfall (MWh),SRMCP ($/MWh),Tier 2 Retroactive Penalty Charge ($),Version
+End of Report

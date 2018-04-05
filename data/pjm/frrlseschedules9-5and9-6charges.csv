@@ -1,0 +1,6 @@
+FRR LSE Schedules 9-5 and 9-6 Charges
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 12:00:06 PM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.04,4000.32,4000.30,4000.74,4000.75,3012.27,3012.28,3012.26,3012.29,3012.30,4000.07
+Customer ID,Customer Code,Date,Zone,Area,Schedule,Determinant,Rate,Refund Rate,Daily Use,Charge ($),Refund Charge ($),Version
+End of Report

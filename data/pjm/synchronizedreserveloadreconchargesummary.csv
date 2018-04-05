@@ -1,0 +1,6 @@
+Synchronized Reserve Load Reconciliation Charge Summary
+Customer Account:,"Tidal Energy Marketing Inc.",Report Creation Timestamp (EPT):,03/26/2018 11:59:45 AM
+Start Billing Month:,"February, 2018",End Billing Month:,"February, 2018"
+4000.01,4000.02,4000.03,4000.05,4000.06,4000.33,4000.34,1470.11,1470.12,1470.01,4000.07
+Customer ID,Customer Code,Billing Month,EPT Hour Ending,GMT Hour Ending,Synch Reserve Zone,Subzone,Load Reconciliation Energy (MWh),Synch Reserve Load Reconciliation Billing Determinant ($/MWh),Synch Reserve Load Reconciliation Charge ($),Version
+End of Report

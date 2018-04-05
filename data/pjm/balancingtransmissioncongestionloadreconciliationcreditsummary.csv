@@ -1,0 +1,6 @@
+Balancing Transmission Congestion Load Reconciliation Credit Summary
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:59 AM
+Start Month:,"February, 2018",End Month:,"February, 2018"
+4000.01,4000.02,4000.03,4000.05,4000.06,3000.67,2415.11,2415.01,4000.07
+Customer ID,Customer Code,Billing Month,EPT Hour Ending,GMT Hour Ending,Load Reconciliation Energy (MWh),Balancing Transmission Congestion Credit Reconciliation Billing Determinant ($/MWh),Balancing Transmission Congestion Load Reconciliation Credit ($),Version
+End of Report

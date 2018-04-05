@@ -1,0 +1,6 @@
+Synchronized Reserve Tier 1 Credits
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:36 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,4000.63,4000.64,3000.80,4000.36,4000.37,2360.2,2360.21,2360.22,2360.23,3000.64,3000.25,2360.24,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Unit ID,Unit Name,Unit Ownership Share,Synch Reserve Event Start Time (EPT),Synch Reserve Event End Time (EPT),Tier 1 Synch Reserve Response (MWh),Synch Reserve Capability (MWh),Tier 1 Adjustment (MWh),Tier 1 Credit MWh,Tier 1 Premium Price ($/MWh),RT Generator LMP ($/MWh),Tier 1 Credit ($),Version
+End of Report

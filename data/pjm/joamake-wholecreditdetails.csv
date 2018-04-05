@@ -1,0 +1,6 @@
+JOA Make-Whole Credit Details
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 12:00:19 PM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,4000.09,4000.19,4000.20,4000.68,3000.73,2375.19,2375.20,3000.25,2375.21,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Transaction ID,PNODE Name,PNODE ID,Eligibility Indicator,RT Transaction MWh,RT Offer Price ($/MWh),RT Offer ($),RT PNODE LMP ($/MWh),RT Value ($),Version
+End of Report

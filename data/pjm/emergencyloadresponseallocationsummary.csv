@@ -1,0 +1,6 @@
+Emergency Load Response Allocation Summary
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:45 AM
+Start Month:,"February, 2018",End Month:,"February, 2018"
+4000.01,4000.02,4000.03,4000.05,4000.06,1245.13,1245.14,3000.28,3000.29,1245.15,3000.77,1245.16,1245.17,1245.01,4000.07
+Customer ID,Customer Code,Billing Month,EPT Hour Ending,GMT Hour Ending,Total PJM Emergency Load Response Energy Credits ($/MWh),Total PJM Emergency Load Response Make-whole Credits ($),DA Net Interchange (MWh),RT Net Interchange (MWh),Real-time Dispatch Reduction (MWh),Load Reconciliation Energy (MWh),Positive Bal Net Interchange Used (MWh),Total PJM Positive Bal Net Interchange Used (MWh),Emergency Load Response Charge ($),Version
+End of Report

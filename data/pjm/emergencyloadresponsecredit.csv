@@ -1,0 +1,7 @@
+Emergency Load Response Credit
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:38 AM
+Start Month:,"February, 2018",End Month:,"February, 2018"
+4000.01,4000.02,4000.03,4000.05,4000.06,4000.93,4000.94,4000.95,4000.32,1241.11,1241.12,1241.13,3000.83,3001.15,3000.25,2245.01,2245.13,2245.14,2245.02,4000.07
+Customer ID,Customer Code,Billing Month,EPT Hour Ending,GMT Hour Ending,Registration ID,EDC Account Number,End Use Customer,Zone,CBL (kWh),Metered Load (kWh),Load Response Loss Factor,EDC Loss De-ration Factor,RT Load Response Actual MWh Relief (MWh),RT LMP ($),Emergency Load Response Energy Credit ($),Emergency Load Response Bid Price ($),Emergency Shutdown Cost ($),Emergency Load Response Make-Whole Credit ($),Version
+End of Report
+The data on this report is preliminary until the end of the billing cycle.  These results are based on load response transactions that have been settled to date.

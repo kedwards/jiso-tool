@@ -1,0 +1,6 @@
+Load Response Regulation Credits
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:41 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,4000.93,4000.94,4000.95,2340.25,2340.26,2340.47,2340.54,2340.55,2340.56,2340.42,3001.44,3001.45,2340.43,2340.44,2340.28,2340.29,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Registration ID,EDC Account Number,End Use Customer,DSR PJM-Assigned Reg (MWh),DSR Self-Scheduled Reg (MWh),DSR Mileage Ratio (MWh),DSR Accuracy Score,DSR Delay Score,DSR Precision Score,DSR Performance Score,RMCCP ($/MWh),RMPCP ($/MWh),DSR RMCCP Credit ($),DSR RMPCP Credit ($),DSR Reg Offer Amount ($),DSR Reg Lost Opportunity Cost Credit ($),Version
+End of Report

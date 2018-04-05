@@ -1,0 +1,6 @@
+Day-Ahead Scheduling Reserve Summary
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:47 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,1365.11,1365.12,1365.13,1365.14,1365.15,1365.16,1365.17,1365.18,1365.21,1365.22,3000.77,1365.23,1365.24,1365.25,1365.26,1365.19,1365.01,1365.02,2365.18,2365.19,2365.20,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Total PJM Cleared Base DASR MWh,RT Load (MWh),Total PJM RT Load (MWh),Base DASR Obligation (MWh),Bilateral DASR Sales (MWh),Bilateral DASR Purchases (MWh),Adjusted Base DASR Obligation (MWh),Total PJM Base DASR Adjusted Obligation (MWh),Total PJM Cleared Additional DASR MWh,DASR Demand (MWh),Load Reconciliation Energy (MWh),DASR Demand Difference (MWh),Total PJM DASR Demand Difference (MWh),Additional DASR Obligation (MWh),Total PJM Additional DASR Obligation (MWh),Total PJM DASR Credits ($),Base DASR Charge ($),Additional DASR Charge ($),DASRMCP ($/MWh),Cleared DASR MWh,DASR Credit ($),Version
+End of Report

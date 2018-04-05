@@ -1,0 +1,7 @@
+Congestion and Loss Load Reconciliation Charges
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:46 AM
+Start Month:,"February, 2018",End Month:,"February, 2018"
+4000.01,4000.02,4000.03,4000.05,4000.06,4000.10,4000.18,4000.17,3000.70,4000.19,4000.20,3000.09,3001.56,1410.01,3000.18,3001.57,1420.01,4000.07
+Customer ID,Customer Code,Billing Month,EPT Hour Ending,GMT Hour Ending,InSchedule ID,Seller,Buyer,Load Reconciliation Energy (MWh),PNODE Name,PNODE ID,PNODE RT Congestion Price ($/MWh),Residual PNODE Adjusted Congestion Rate ($/MWh),Congestion Load Reconciliation Charge ($),PNODE RT Loss Price ($/MWh),Residual PNODE Adjusted Loss Rate ($/MWh),Loss Load Reconciliation Charge ($),Version
+End of Report
+The data on this report is preliminary until the end of the billing cycle.

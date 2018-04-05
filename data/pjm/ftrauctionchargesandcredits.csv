@@ -1,0 +1,6 @@
+FTR Auction Charges and Credits
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 12:00:20 PM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.04,4000.57,4000.58,3000.55,4000.59,4000.60,4000.61,4000.23,4000.21,3000.53,1500.11,1500.01,2500.01,4000.07
+Customer ID,Customer Code,Date,FTR ID,FTR Market Name,Period,Peak Type,Hedge Type,FTR Transaction Type,Source PNODE Name,Sink PNODE Name,FTR MW Cleared,Price ($/MW per day),FTR Auction Charge ($),FTR Auction Credit ($),Version
+End of Report

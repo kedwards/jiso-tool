@@ -1,0 +1,7 @@
+Economic Load Response Zonal Charge Allocations (Pre FERC 745 (04.01.2012))
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:53 AM
+Start Month:,"February, 2018",End Month:,"February, 2018"
+4000.01,4000.02,4000.03,4000.05,4000.06,4000.32,1240.12,3001.11,1240.13,1240.02,1241.15,3001.12,3001.13,1241.02,4000.07
+Customer ID,Customer Code,Billing Month,EPT Hour Ending,GMT Hour Ending,Zone,Total DA Load Response Zone Charge ($),DA Demand (MWh),Total Zone DA Demand (MWh),DA Load Response Charge Allocation ($),Total RT Load Response Zone Charge ($),RT Load (MWh),Total Zone RT Load (MWh),RT Load Response Charge Allocation ($),Version
+End of Report
+The data on this report is preliminary until the end of the billing cycle.  These results are based on load response transactions that have been settled to date.

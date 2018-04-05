@@ -1,0 +1,6 @@
+Synchronized Reserve Tier 1 Charge Summary
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:39 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,4000.33,4000.34,4000.36,4000.37,1360.11,1360.12,1360.13,1360.01,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Synch Reserve Zone,Subzone,Synch Reserve Event Start Time (EPT),Synch Reserve Event End Time (EPT),Total Zone Tier 1 Credit ($),Tier 1 Allocation to Obligation (MWh),Total Zone Tier 1 Allocation to Obligation (MWh),Tier 1 Charge ($),Version
+End of Report

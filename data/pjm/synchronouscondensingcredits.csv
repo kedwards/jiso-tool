@@ -1,0 +1,6 @@
+Synchronous Condensing Credits
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:52 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,4000.63,4000.64,3000.80,4000.65,4000.66,2377.13,2377.14,2377.15,3000.25,2377.16,2377.17,3000.98,3000.33,3000.61,2377.18,2377.19,2378.18,2378.19,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Unit ID,Unit Name,Unit Ownership Share,Schedule ID,Reactive Services Indicator,Condensing Duration (Hours),Condensing Offer  ($/hr),Energy Use  (MWh),RT Generator LMP ($/MWh),Offer at RT LMP Desired MWh ($/MWh),Condensing Start Up Cost  ($),Economic Max  (MWh),RT Generation (MWh),SRMCP ($/MWh),Synchronous Condensing Credit  ($),Synchronous Condensing Lost Opportunity Cost Credit ($),Reactive Services Condensing Credit  ($),Reactive Services Condensing Lost Opportunity Cost Credit ($),Version
+End of Report

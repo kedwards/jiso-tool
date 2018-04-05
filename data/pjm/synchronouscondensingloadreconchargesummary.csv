@@ -1,0 +1,6 @@
+Synchronous Condensing Load Reconciliation Charge Summary
+Customer Account:,"Tidal Energy Marketing Inc.",Report Creation Timestamp (EPT):,03/26/2018 12:00:06 PM
+Start Billing Month:,"February, 2018",End Billing Month:,"February, 2018"
+4000.01,4000.02,4000.03,4000.04,3000.68,1480.11,1480.01,4000.07
+Customer ID,Customer Code,Billing Month,Date,Load Reconciliation Energy (MWh),Synchronous Condensing Load Reconciliation Billing Determinant ($/MWh),Synchronous Condensing Load Reconciliation Charge ($),Version
+End of Report

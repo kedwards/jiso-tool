@@ -1,0 +1,7 @@
+Operating Reserve for Load Response Deviation Charge Summary
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 12:00:21 PM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.03,4000.04,1376.5,1376.16,1376.52,1376.05,1376.54,1376.17,1376.56,1376.06,1376.58,1376.18,1376.6,1376.07,4000.07
+Customer ID,Customer Code,Billing Month,Date,Total RTO Bal OpRes for Deviations Credit ($),PJM Deviations (MWh),Total PJM Deviations (MWh),RTO Bal OpRes for Load Response Deviations Charge ($),Total East Bal OpRes for Deviations Credit ($),East Deviations (MWh),Total East Deviations (MWh),East Bal OpRes for Load Response Deviations Charge ($),Total West Bal OpRes for Deviations Credit ($),West Deviations (MWh),Total West Deviations (MWh),West Bal OpRes for Load Response Deviations Charge ($),Version
+End of Report
+The data on this report is preliminary until the end of the billing cycle.  These results are based on load response transactions that have been settled to date.

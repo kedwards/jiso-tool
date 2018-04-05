@@ -1,0 +1,6 @@
+Non-Synchronized Reserve Credits
+Customer Account:,Tidal Energy Marketing Inc.,Report Creation Timestamp (EPT):,03/26/2018 11:59:43 AM
+Start Date:,02/01/2018,End Date:,02/28/2018
+4000.01,4000.02,4000.05,4000.06,4000.63,4000.64,3000.8,4000.33,4000.34,3001.42,2362.10,2362.11,2362.18,2362.12,2362.19,4000.07
+Customer ID,Customer Code,EPT Hour Ending,GMT Hour Ending,Unit ID,Unit Name,Unit Ownership Share,Reserve Zone,Subzone,NSRMCP ($/MWh),Non-Synch Reserve MWh,Non-Synch Reserve Shortfall (MWh),NSRMCP Credit ($),Non-Synch Reserve Lost Opportunity Cost ($),Non-Synch Reserve Lost Opportunity Cost Credit ($),Version
+End of Report

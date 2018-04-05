@@ -1,0 +1,13 @@
+Advanced Second Control Center Charge Details
+Customer Account:,"Tidal Energy Marketing Inc.",Report Creation Timestamp (EPT):,03/26/2018 11:59:41 AM
+Start Month:,"February, 2018",End Month:,"February, 2018"
+4000.01,4000.02,4000.03,1306.11,1306.12,1306.13,1306.14,1306.01,4000.07
+Customer ID,Customer Code,Month,Data Label,Total PJM AC2 Charge ($),Total Usage,Total PJM Usage,AC2 Charge ($),Version
+38738,TIDALE,"February, 2018",AC2 Schedule 9-1,.00,230.000000,63399529.327000,.00,20180201.000
+38738,TIDALE,"February, 2018",AC2 Schedule 9-2a,.00,.000000,312730518.400000,.00,20180201.000
+38738,TIDALE,"February, 2018",AC2 Schedule 9-2b,.00,.000000,616746272.000000,.00,20180201.000
+38738,TIDALE,"February, 2018",AC2 Schedule 9-3a,.00,8645.000000,147538294.662000,.00,20180201.000
+38738,TIDALE,"February, 2018",AC2 Schedule 9-3b,.00,23.000000,3353083.000000,.00,20180201.000
+38738,TIDALE,"February, 2018",AC2 Schedule 9-4,.00,.000000,722667.281042,.00,20180201.000
+38738,TIDALE,"February, 2018",AC2 Schedule 9-5,.00,.000000,10265219.610000,.00,20180201.000
+End of Report
